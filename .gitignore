@@ -1,0 +1,12 @@
+#This file tells git which file types to ignore automatically
+#Go to this url for pre-packaged collections of things to add here for different langueges and tools used
+#https://github.com/github/gitignore:
+#Java class files
+*.class
+#Generated Files
+bin/
+gen/
+
+#Gradle files
+.gradle/
+build/
