@@ -1,0 +1,2 @@
+This is text in a file called sometext.txt
+This is now another line
